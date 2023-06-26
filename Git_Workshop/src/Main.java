@@ -13,9 +13,9 @@ public class Main {
 
     public static void future() {
 
-        System.out.println("Taurus");
+        System.out.println("Goat");
     }
     public static void cheer(){
-        System.out.println("Malachite ");
+        System.out.println("Malachite");
     }
 }
