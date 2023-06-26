@@ -3,8 +3,8 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    public void count() {
-        System.out.printf("23");
+    public void count(String parameter) {
+        System.out.println(parameter);
     }
 
     public void greet(String text) {
