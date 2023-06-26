@@ -18,6 +18,7 @@ public class Main {
         System.out.println("My zodiac sign is: " + "Taurus");
     }
     public static void cheer(){
-        System.out.println("Java");
+        System.out.println("Java ");
+        System.out.println("hello");
     }
 }
