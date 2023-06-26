@@ -4,7 +4,7 @@ public class Main {
     }
     
     public void count(String i1, String i2) {
-        System.out.println(i1+i2);
+        System.out.printf(i1 + " " + i2);
     }
 
 
