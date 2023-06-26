@@ -7,12 +7,11 @@ public class Main {
         System.out.printf("23");
     }
 
-    public void greet() {
-        System.out.println("Jiri");
+    public void greet(String text) {
+        System.out.println("Jiri"+text);
     }
 
     public static void future() {
-
         System.out.println("Taurus");
     }
     public static void cheer(){
