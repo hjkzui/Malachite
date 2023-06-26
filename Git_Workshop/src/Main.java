@@ -6,7 +6,6 @@ public class Main {
     public void count() {
         System.out.printf("6");
     }
-    
     public void greet(String text1, String text2) {
         System.out.println("Greetings!");
         System.out.println(text1);
