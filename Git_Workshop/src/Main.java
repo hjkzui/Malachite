@@ -13,7 +13,7 @@ public class Main {
     }
 
     public void greet(String text) {
-        System.out.println("Greetings!");
+        System.out.println("Greetings for the" + text);
     }
 
     public static void future(String text) {
