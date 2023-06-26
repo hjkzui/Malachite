@@ -21,11 +21,8 @@ public class Main {
     }
 
     public static void cheer() {
-<<<<<<< HEAD
-        System.out.println("'Cheer for the Malachite ");
-        System.out.println("'Cheer for the Malachite ");
-=======
         System.out.println("Cheer for the Malachite");
->>>>>>> main
+
     }
 }
+
