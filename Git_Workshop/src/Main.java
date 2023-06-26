@@ -12,7 +12,7 @@ public class Main {
     }
 
     public static void future() {
-        System.out.println("My sign is: " + "Taurus");
+        System.out.println("My zodiac sign is: " + "Taurus");
     }
     public static void cheer(){
         System.out.println("Malachite ");
