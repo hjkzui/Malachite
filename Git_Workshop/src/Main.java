@@ -8,7 +8,7 @@ public class Main {
 
 
     public void greet(String text) {
-        System.out.println("Jiri"+text);
+        System.out.println("Greetings!");
     }
 
     public static void future() {
