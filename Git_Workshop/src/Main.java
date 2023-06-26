@@ -5,4 +5,7 @@ public class Main {
     public void count(){
         System.out.printf("23");
     }
+    public void greet(){
+        System.out.println("Jiri");
+    }
 }
