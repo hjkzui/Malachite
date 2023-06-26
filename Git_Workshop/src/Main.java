@@ -15,4 +15,7 @@ public class Main {
 
         System.out.println("Taurus");
     }
+    public static void cheer(){
+        System.out.println("Malachite");
+    }
 }
