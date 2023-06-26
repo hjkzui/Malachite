@@ -4,7 +4,7 @@ public class Main {
     }
 
     public void count() {
-        System.out.printf("23");
+        System.out.printf("6");
     }
 
     public void greet(String text) {
