@@ -5,6 +5,7 @@ public class Main {
     
     public void count() {
         System.out.printf("6");
+    }
 
 
     public void greet(String text) {
@@ -15,6 +16,6 @@ public class Main {
         System.out.println("My zodiac sign is: " + "Taurus");
     }
     public static void cheer(){
-        System.out.println("Malachite");
+        System.out.println("Java");
     }
 }
