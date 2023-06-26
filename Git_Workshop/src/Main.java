@@ -16,8 +16,8 @@ public class Main {
         System.out.println("Greetings!");
     }
 
-    public static void future() {
-        System.out.println("My zodiac sign is: " + "Taurus");
+    public static void future(String text) {
+        System.out.println("Your future looks like" + text);
     }
 
     public static void cheer() {
