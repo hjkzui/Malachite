@@ -8,11 +8,11 @@ public class Main {
 
 
     public void greet(String text) {
-        System.out.println("Jiri"+text);
+        System.out.println("Greetings!");
     }
 
     public static void future() {
-        System.out.println("Taurus");
+        System.out.println("My zodiac sign is: " + "Taurus");
     }
     public static void cheer(){
         System.out.println("Java");
