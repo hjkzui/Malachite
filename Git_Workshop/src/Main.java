@@ -21,7 +21,6 @@ public class Main {
     }
 
     public static void cheer() {
-        System.out.println("Java ");
-        System.out.println("hello");
+        System.out.println("Cheer for the Malachite");
     }
 }
